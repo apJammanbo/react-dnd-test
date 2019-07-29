@@ -1,4 +1,5 @@
-import "core-js";
+import "core-js/stable";
+import "regenerator-runtime/runtime";
 import "core-js/es/map";
 import "core-js/es/set";
 
